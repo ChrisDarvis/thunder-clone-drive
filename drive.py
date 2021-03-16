@@ -9,7 +9,7 @@ import os
 try:
     bot = Client(
         session_name="thunder_drive",
-        api_id="3642426",
+        api_id="3642426", # hola
         api_hash="831f0f0ddd4b3dfb21dd7a3d1f2c3fd6",
         bot_token="1538333452:AAGa_PW1nDAArvDRz2h7tVOZQdhBZf0FZ0Y"
     )
